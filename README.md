@@ -1,5 +1,8 @@
 # LSTM Text Generation – Full GenAI Project
 
+#CHECK DEPLOYED STEAMLIT VERSION :
+
+
 This project demonstrates an end-to-end Generative AI pipeline using a character-level LSTM model trained on Shakespeare's works.
 
 ## Contents
